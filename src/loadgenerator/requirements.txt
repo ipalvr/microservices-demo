@@ -67,7 +67,7 @@ six==1.16.0
     #   python-dateutil
 urllib3==2.2.1
     # via requests
-werkzeug==3.0.1
+werkzeug==3.0.3
     # via
     #   flask
     #   flask-login
